@@ -1,7 +1,7 @@
 {
 "usuarios":[
     {
-        "imgCoyo": "img1",
+        "imgCoyo": "img/img1.jpg",
         "nombre": "Jose",
         "contraseña": "123456789",
         "direccion": "En la luna 4302",
@@ -9,7 +9,7 @@
         "Cedula": "50029435-0"
     },
     {
-        "imgCoyo": "img2",
+        "imgCoyo": "img/img2.jpg",
         "nombre": "Mauricio",
         "contraseña": "LUNA23",
         "direccion": "En la luna 4332",
@@ -17,7 +17,7 @@
         "Cedula": "50029235-5"
     },
     {
-        "imgCoyo": "img3",
+        "imgCoyo": "img/img3.jpg",
         "nombre": "Nicolas",
         "contraseña": "ABCDEF",
         "direccion": "En la luna 4322",
@@ -25,7 +25,7 @@
         "Cedula": "50021435-6"
     },
     {
-        "imgCoyo": "img4",
+        "imgCoyo": "img/img4.jpg",
         "nombre": "Toby",
         "contraseña": "1234",
         "direccion": "En la luna 4455",
