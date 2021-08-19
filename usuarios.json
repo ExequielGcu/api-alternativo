@@ -1,0 +1,32 @@
+{
+"usuarios":[
+    {
+        "nombre": "Jose",
+        "contraseña": "123456789",
+        "direccion": "En la luna 4302",
+        "celular": "009103840266",
+        "Cedula": "50029435-0"
+    },
+    {
+        "nombre": "Mauricio",
+        "contraseña": "LUNA23",
+        "direccion": "En la luna 4332",
+        "celular": "009503840266",
+        "Cedula": "50029235-5"
+    },
+    {
+        "nombre": "Nicolas",
+        "contraseña": "ABCDEF",
+        "direccion": "En la luna 4322",
+        "celular": "009103940266",
+        "Cedula": "50021435-6"
+    },
+    {
+        "nombre": "Toby",
+        "contraseña": "1234",
+        "direccion": "En la luna 4455",
+        "celular": "009105840266",
+        "Cedula": "50029485-2"
+    }
+]
+}
