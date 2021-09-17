@@ -1,7 +1,7 @@
 {
     "id": 3,
     "name": "Suzuki Celerio",
-    "description": "Suzuki Celerio el auto para trabas.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque maximus lacus vel pharetra tincidunt. Pellentesque dignissim nisi quis suscipit elementum. Etiam sollicitudin sem a ipsum tempus, nec faucibus orci varius. Donec et velit dictum, imperdiet metus eu, commodo ante. Maecenas a fringilla leo. Integer at imperdiet ex. Donec pulvinar vel nisl vel fermentum. Phasellus ac nibh metus. Nam a consequat tortor, in tincidunt nunc. Praesent diam nibh, vehicula facilisis tellus vel, cursus porttitor mi. Integer vel sagittis nulla. Proin accumsan lobortis mi non malesuada. Vivamus a ex nulla. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
     "cost": 12500,
     "currency": "USD",
     "soldCount": 25,
