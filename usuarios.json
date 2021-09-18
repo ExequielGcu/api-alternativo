@@ -2,7 +2,7 @@
 "usuarios":[
     {
         "imgCoyo": "img/img1.jpg",
-        "nombre": "Jose",
+        "usuario": "ExequielxC",
         "contraseña": "123456789",
         "direccion": "En la luna 4302",
         "celular": "009103840266",
@@ -10,7 +10,7 @@
     },
     {
         "imgCoyo": "img/img2.jpg",
-        "nombre": "Mauricio",
+        "usuario": "Mauricio",
         "contraseña": "LUNA23",
         "direccion": "En la luna 4332",
         "celular": "009503840266",
@@ -18,7 +18,7 @@
     },
     {
         "imgCoyo": "img/img3.jpg",
-        "nombre": "Nicolas",
+        "usuario": "Nicolas",
         "contraseña": "ABCDEF",
         "direccion": "En la luna 4322",
         "celular": "009103940266",
@@ -26,7 +26,7 @@
     },
     {
         "imgCoyo": "img/img4.jpg",
-        "nombre": "Toby",
+        "usuario": "Toby",
         "contraseña": "1234",
         "direccion": "En la luna 4455",
         "celular": "009105840266",
